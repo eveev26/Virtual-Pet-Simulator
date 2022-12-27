@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootSound\ getbgMusic()
+comment2.text=\r\n\ getbgMusic\ -\ Returns\ the\ background\ music\r\n
+comment3.params=
+comment3.target=void\ stopped()
+comment3.text=\r\n\ stopped\ -\ Overrides\ the\ stopped()\ void\ method\ to\ pause\ background\ music\ when\ user\ presses\ 'pause'\r\n
+comment4.params=
+comment4.target=void\ started()
+comment4.text=\r\n\ started\ -\ Overrides\ the\ started()\ void\ method\ to\ play\ background\ music\ when\ user\ presses\ 'play'\r\n
+numComments=5

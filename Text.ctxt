@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Text\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Text\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=text
+comment2.target=Text(greenfoot.GreenfootImage)
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getText()
+comment3.text=\r\n\ getText\ -\ Returns\ the\ current\ text\ image\r\n
+comment4.params=text
+comment4.target=void\ setText(greenfoot.GreenfootImage)
+comment4.text=\r\n\ setText\ -\ Sets\ the\ text\ image\r\n
+numComments=5

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BackgroundButton
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BackgroundButton\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BackgroundButton()
+comment2.params=
+comment2.target=greenfoot.GreenfootImage[]\ getBGImages()
+comment2.text=\r\n\ getBGImages\ -\ Returns\ all\ the\ background\ images\r\n
+comment3.params=
+comment3.target=int\ getPrevImg()
+comment3.text=\r\n\ get\ PrevImg\ -\ Returns\ the\ previous\ background\ image\ index\ in\ the\ bgImages\ array\r\n
+comment4.params=prevImg
+comment4.target=void\ setPrevImg(int)
+comment4.text=\r\n\ setPrevImg\ -\ Sets\ the\ previous\ background\ image\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment6.params=
+comment6.target=void\ changeBG()
+comment6.text=\r\n\ changeBG\ -\ Changes\ the\ background\ when\ the\ "Change\ Background"\ button\ is\ clicked\r\n
+numComments=7
