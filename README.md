@@ -1,29 +1,14 @@
 .・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・
 
-══✿══╡°˖✧✿✧˖°╞══✿══
-
-**PROJECT TITLE:** Virtual Pet Simulator
-
-**COURSE CODE:** ICS 4U1
-
-**DATE:** Monday, May 23, 2022
-
-**AUTHOR:** Ivy Chen
-══✿══╡°˖✧✿✧˖°╞══✿══
-
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+# Virtual Pet Simulator
 
 *NOTE: This code runs on Greenfoot API*
 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-
-**FOREWORD:**
+## Foreword
 
 Welcome to my Virtual Pet Simulator! Meet Bunny! Bunny loves to eat and play, so please interact with him as muchyou'd like. Just make sure that he is happy and healthy at all times :) Thanks for playing my game!
 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-
-**BASIC INFORMATION:**
+## Basic Information
 
 ♥ Bunny's stats can be seen in the bottom left hand corner. There are 3 health stats: hunger, energy, and happiness
 
@@ -34,10 +19,8 @@ Welcome to my Virtual Pet Simulator! Meet Bunny! Bunny loves to eat and play, so
 ♥ The happiness stat starts at 100% and will decrease by 1% every 75 acts. There are no consequences if the happiness stat reaches 0%, but please do not let this         happen as it will make Bunny sad. To increase Bunny's happiness, either click on him or give him toys
 
 ♥ At the top of the screen, there is a tool bar containing 6 objects that Bunny can interact with: Petfood, Coffee, a Ukulele, a Camera, a Scooter, and a Cape
-  
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
 
-**HOW TO FEED BUNNY:**
+## How to Feed Bunny
 
 ♥ Bunny can eat 2 things: Petfood and Coffee
 
@@ -47,9 +30,7 @@ Welcome to my Virtual Pet Simulator! Meet Bunny! Bunny loves to eat and play, so
 
 ♥ If Bunny's hunger reaches 0%, Bunny will die and the game will be over
 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-
-**HOW TO PLAY WITH BUNNY:**
+## How to Play With Bunny
 
 ♥ If you click on Bunny, Bunny will feel happy and his happiness will increase by 5%. However, if you click on Bunny too many times, Bunny will eventually get mad       because his impatience is too high and his happiness will not go up anymore if you continue to click him
 
@@ -59,9 +40,7 @@ Welcome to my Virtual Pet Simulator! Meet Bunny! Bunny loves to eat and play, so
 
 ♥ Once you give a toy to Bunny for him to play with, he will change his image and his happiness stat will increase
 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-
-**HOW TO GET BUNNY TO FOLLOW YOU:**
+## How to Get Bunny to Follow You
 
 ♥ If you click on the screen, Bunny will move to where your mouse is
 
@@ -73,17 +52,13 @@ Welcome to my Virtual Pet Simulator! Meet Bunny! Bunny loves to eat and play, so
 
 ♥ To remove the Cape or the Scooter, simply click Bunny or interact with another toy/food
 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-
-**HOW DOES BUNNY SLEEP?**
+## How Does Bunny Sleep?
 
 ♥ If Bunny's energy is in between 20% and 50%, Bunny will become sleepy. When Bunny is sleepy, he will get more and more impatient
 
 ♥ If Bunny's energy is less than 20%, Bunny will fall asleep wherever he is currently standing. When Bunny is asleep, you cannot play, feed, or move him until he         wakes up
 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-
-**HOW TO CHANGE THE BACKGROUND:**
+## How to Change the Background
 
 ♥ In the bottom right-hand corner, there is a button called "Change Background"
 
@@ -91,14 +66,10 @@ Welcome to my Virtual Pet Simulator! Meet Bunny! Bunny loves to eat and play, so
 
 ♥ Possible backgrounds include: library (default), bedroom, kitchen, bathroom, living room, and the pool
 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-
-**HOW TO TURN THE MUSIC ON/OFF?**
+## How to Turn the Music On/Off
 
 ♥ In the bottom right-hand corner beside the "Change Background" button, there is a volume button
 
 ♥ Clicking on this button will turn the music on or off
-
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
 
 .・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・✫・゜・。..・。.・゜✭・.・
